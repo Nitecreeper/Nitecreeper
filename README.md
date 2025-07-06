@@ -1,4 +1,14 @@
-## Hi there 👋
+# Hi there 👋
+
+:computer: **Desarrollador de software**
+
+:bicyclist::oncoming_automobile: **Fan de ciclismo y fórmula 1**
+
+### Contacto:
+
+![GitHub commit activity](https://img.shields.io/github/commit-activity/y/Nitecreeper/Nitecreeper)
+
+
 
 <!--
 **Nitecreeper/Nitecreeper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
